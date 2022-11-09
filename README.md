@@ -12,7 +12,7 @@ Analysis of user experience systems UX/UI,
 
 - 🌱 I’m currently working on new project "Build it", and i will upload it soon...
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me on email: realnameing@gmail.com
+- 📫 You can reach me through email: realnameing@gmail.com
 
 <!---
 surreal/surreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
