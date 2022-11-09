@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Andrey
+
 Working methodologies in writing code with languages: Java, JavaScript Dart and Node JS alongside developing applications for the interfaces: WEB / Android / IOS.
 Websites programming and management, network communication management, systems analysis and Data Base management.
 Development from Scratch including characterization and technological configuration.
