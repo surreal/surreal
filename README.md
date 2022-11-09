@@ -11,7 +11,6 @@ Debugging - investigating faults, locating bugs and adapting technological solut
 Analysis of user experience systems UX/UI, 
 
 - 🌱 I’m currently working on new project "Build it", and i will upload it soon...
-- 💞️ I’m looking to collaborate on new projects
 - 📫 You can reach me through email: realnameing@gmail.com
 
 <!---
