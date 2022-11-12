@@ -2,7 +2,7 @@
 
 Working methodologies in writing code with languages: Java, Dart(Flutter), JavaScript, Node JS, alongside developing applications for the interfaces: WEB / Android / IOS.
 Development from Scratch including characterization and technological configuration. Analysis of user experience systems UX/UI.
-Client Side implementation while connecting to the Google cloud, and Firebase servers.
+Client Side implementation while connecting to the Google cloud, and Firebase services.
 Server side based on Node JS framework implementation through Firebase services.
 Creating a Data Base and writing SQL queries.
 Creating  RESTful APIs.
