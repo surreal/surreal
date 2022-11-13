@@ -11,6 +11,6 @@
         ✔ Analysis of user experience systems UX/UI <br>
     </p>
 
-    - 🌱 I'm currently working on new project "Build it", and i will upload it ♨_♨ soon... <br>
+    - 🌱 I'm currently working on new project "Build it", and i will upload it ♨_♨ soon...
     - 📫 You can reach me through email: realnameing@gmail.com
 </div>
