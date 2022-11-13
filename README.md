@@ -4,8 +4,8 @@
         <br><br>
         ✔ Working methodologies in developing C/S APPs <br>
         ✔ Languages: Java, Dart(Flutter), JavaScript, HTML5, NodeJS<br>
-        ✔ Creating a Data Base, writing SQL queries<br>
         ✔ Building RESTful APIs<br>
+        ✔ Creating a Data Base, writing SQL queries<br>
         ✔ Platforms: Windows, Android, IOS, MacOs, Firebase, Google Cloud, Power BI, Github <br>
         ✔ Debugging: investigating faults, locating bugs and adapting technological solutions <br>
         ✔ Analysis of user experience systems UX/UI <br>
