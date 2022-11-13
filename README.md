@@ -1,11 +1,11 @@
 <div dir="ltr">
     <p>- 👋 Hi, I'm Andrey (¬‿¬)<p>
-        <i> Specializing on developing applications for the interfaces: WEB / Android / IOS.</i>
+        <i>Specializing on developing applications for the interfaces: WEB / Android / IOS.</i>
         <br><br>
         ✔ Working methodologies in developing C/S APPs <br>
         ✔ Languages: Java, Dart(Flutter), JavaScript, HTML5, NodeJS<br>
-        ✔ Building RESTful APIs<br>
-        ✔ Creating a Data Base, writing SQL queries<br>
+        ✔ REST: building RESTful APIs<br>
+        ✔ MySql: creating a Data Base, writing SQL queries<br>
         ✔ Platforms: Windows, Android, IOS, MacOs, Firebase, Google Cloud, Power BI, Github <br>
         ✔ Debugging: investigating faults, locating bugs and adapting technological solutions <br>
         ✔ Analysis of user experience systems UX/UI <br>
