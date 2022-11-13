@@ -3,7 +3,7 @@
         <i> Specializing on developing applications for the interfaces: WEB / Android / IOS.</i>
         <br><br>
         ✔ Working methodologies in developing C/S APPs <br>
-        ✔ Languages: Java, Dart(Flutter), JavaScript, Node JS<br>
+        ✔ Languages: Java, Dart(Flutter), JavaScript, NodeJS<br>
         ✔ Creating a Data Base, writing SQL queries.<br>
         ✔ Building RESTful APIs<br>
         ✔ Platforms: Windows, Android, IOS, MacOs, Firebase, Google Cloud, Power BI, Github <br>
@@ -13,4 +13,10 @@
 
     - 🌱 I'm currently working on new project "Build it", and i will upload it ♨_♨ soon...
     - 📫 You can reach me through email: realnameing@gmail.com
+</div>
+
+<div>
+<img  height="50;" title="screenshot 20;" src="https://user-images.githubusercontent.com/16803977/201542838-a28c5117-280d-482d-a406-f147e535f847.png">
+
+
 </div>
