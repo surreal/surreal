@@ -15,4 +15,4 @@
     - 📫 You can reach me through email: realnameing@gmail.com
 </div>
 
-<img  height="50;" title="screenshot 20;" src="https://user-images.githubusercontent.com/16803977/201543223-5d416fc6-8e40-4154-bf61-1bb3d943d11b.png">
+<img  height="50;" title="screenshot 20;" src="https://user-images.githubusercontent.com/16803977/201678092-2c872aeb-4f3b-4d9d-a936-e08fe0a0cd08.png">
