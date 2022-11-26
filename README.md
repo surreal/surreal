@@ -3,7 +3,7 @@
         <i>Specializing on developing applications for the interfaces: WEB / Android / IOS.</i>
         <br><br>
         ✔ Working methodologies in developing C/S APPs <br>
-        ✔ Languages: Java, Dart(Flutter), JavaScript, HTML5, NodeJS<br>
+        ✔ Languages: Java, Dart(Flutter), JavaScript, NodeJS<br>
         ✔ REST: building RESTful APIs<br>
         ✔ MySql: creating a Data Base, writing SQL queries<br>
         ✔ Platforms: Windows, Android, IOS, MacOs, Firebase, Google Cloud, Power BI, Github <br>
